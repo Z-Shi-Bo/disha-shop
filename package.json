@@ -1,0 +1,40 @@
+{
+  "name": "disha-shop-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@tinymce/tinymce-vue": "^5.1.1",
+    "@vueuse/core": "^10.5.0",
+    "@vueuse/integrations": "^10.5.0",
+    "axios": "^1.5.1",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.14",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.1.6",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "tinymce": "^6.7.2",
+    "universal-cookie": "^6.1.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@iconify-json/ep": "^1.1.12",
+    "@vicons/antd": "^0.12.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-icons": "^0.17.0",
+    "unplugin-vue-components": "^0.25.2",
+    "vite": "^4.4.5",
+    "vite-plugin-vue-setup-extend": "^0.4.0",
+    "vite-plugin-windicss": "^1.9.1",
+    "windicss": "^3.5.6"
+  }
+}
